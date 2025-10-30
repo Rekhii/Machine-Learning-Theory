@@ -46,7 +46,6 @@ Every notebook here reflects:
 
 ##  Philosophy
 
-> *"To build intelligence, you must first understand learning."*
 
 Understanding each algorithm from its mathematical essence cultivates research intuition — the ability to derive, modify, and invent new methods beyond existing literature.
 
